@@ -1,0 +1,4 @@
+#!/bin/bash
+
+python3 life.py --size $1 --config $2
+
